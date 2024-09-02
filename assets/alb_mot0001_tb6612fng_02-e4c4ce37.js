@@ -1,0 +1,1 @@
+const s="/assets/images/amnos_alb/alb_mot0001_tb6612fng_01.jpg",a="/assets/images/amnos_alb/alb_mot0001_tb6612fng_00.jpg",_="/assets/images/amnos_alb/alb_mot0001_tb6612fng_02.png";export{s as _,a,_ as b};
